@@ -1,5 +1,5 @@
 ## 💡 [Open circuit on circuitverse.org 🌐](https://circuitverse.org/users/307998/projects/7-segment-display-binary-to-hexadecimal-decoder)
-### 📖 Instructions On Usage:
+### 📖 **Instructions On Usage:**
 - I have used [circuitverse.org](https://circuitverse.org/simulator) to simulate my project.
 - Open the Link (no signup required).
 - `Scroll Down` to zoom in, `scroll Up` to zoom out the circuit window.
@@ -7,7 +7,7 @@
 - The input and output are at the bottom of the circuit.
 - Simply `Click` on the 4 bits A B C D binary inputs to get respective converted outputs on the 7 segment display.
 
-### 📥 Direct Download:
+### 📥 **Direct Download:**
 - [Download](7%20SEGMENT%20DISPLAY%20DECODER.cv) by right clicking link > save link as... and save it as .cv file
 - Open [circuitverse.org](https://circuitverse.org/simulator).
 - Go to Project > Import File.
