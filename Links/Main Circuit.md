@@ -7,7 +7,7 @@
 - The input and output are at the bottom of the circuit.
 - Simply `Click` on the 4 bits A B C D binary inputs to get respective converted outputs on the 7 segment display.
 
-### 📥 [Direct Download](Links/7%20SEGMENT%20DISPLAY%20DECODER.cv)
+### 📥 [Direct Download](7%20SEGMENT%20DISPLAY%20DECODER.cv)
 - Open [circuitverse.org](https://circuitverse.org/simulator).
 - Go to Project > Import File.
 - Import the `7 SEGMENT DISPLAY DECODER.cv` file and click Ok.
