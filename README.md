@@ -39,6 +39,7 @@ All K-Maps for segments (a–g) are included below:
 
 ##  🎥 Demonstration
 
+https://github.com/user-attachments/assets/f752927e-392e-4acb-ba3b-bc9efc08ca6c
 
 ---
 
