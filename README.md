@@ -1,4 +1,4 @@
-# 7-Segment Binary to Hexadecimal Decoder using Logic Gates
+# 4-bit Binary to Hex 7-Segment Decoder Simulation
 
 ##  💡 Overview
 
