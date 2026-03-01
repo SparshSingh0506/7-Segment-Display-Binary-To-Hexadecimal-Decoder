@@ -1,4 +1,4 @@
-# 4-bit Binary to Hex 7-Segment Decoder Simulation
+# 4-bit Binary to Hex 7-Segment Display Decoder 
 
 ##  💡 Overview
 
