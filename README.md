@@ -2,7 +2,7 @@
 
 ##  💡 Overview
 
-This project implements a 4-bit binary input to hexadecimal output displayed on a 7-segment display.  
+This project implements a simple 4-bit binary input to hexadecimal output displayed on a 7-segment display.  
 The logic for each segment (a–g) is derived and minimized using Karnaugh Maps (K-Maps), and the final simplified Boolean expressions are implemented using basic logic gates.
 
 ---
