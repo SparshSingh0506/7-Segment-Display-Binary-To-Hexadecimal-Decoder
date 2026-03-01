@@ -30,10 +30,11 @@ To satisfy my personal interest, I aimed to design a combinational circuit that:
 
 All K-Maps for segments (a–g) are included below:
 
-
 ![K-Map](images/K-maps.png)
+[Excalidraw Link](https://excalidraw.com/#json=x0yH7RXAgOOs8MDv9RgLM,wH2azaqmltZRIsAQVn-gcQ)
 
 ![Truth Table](images/TruthTable.png)
+[Truth Table Link](https://docs.google.com/spreadsheets/d/1FTfMHby6sH13XPNkttompSXblw1bokOfQQm8BspT5co/edit?usp=sharing)
 
 ---
 
