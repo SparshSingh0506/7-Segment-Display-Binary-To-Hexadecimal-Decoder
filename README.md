@@ -31,14 +31,14 @@ To satisfy my personal interest, I aimed to design a combinational circuit that:
 All K-Maps for segments (a–g) are included below:
 
 
-![Segment A K-Map](images/K-maps.png)
+![K-Map](images/K-maps.png)
 
+![Truth Table](images/TruthTable.png)
 
 ---
 
 ##  🎥 Demonstration
 
-<!-- Add demo video link here -->
 
 ---
 
