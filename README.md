@@ -30,10 +30,9 @@ To satisfy my personal interest, I aimed to design a combinational circuit that:
 
 All K-Maps for segments (a–g) are included below:
 
-<!-- Insert images here -->
-<!-- Example:
-![Segment A K-Map](images/seg_a.png)
--->
+
+![Segment A K-Map](images/K-maps.png)
+
 
 ---
 
