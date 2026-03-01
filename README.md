@@ -13,6 +13,7 @@ To satisfy my personal interest, I aimed to design a combinational circuit that:
 
 - Accepts a 4-bit binary input (A, B, C, D)
 - Displays the corresponding hexadecimal digit (0–F) on a 7 segment display for output
+- Direct Link : [Circuit Verse](https://circuitverse.org/users/307998/projects/7-segment-display-binary-to-hexadecimal-decoder)
 
 ---
 
